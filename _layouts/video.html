@@ -19,7 +19,7 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.js"></script>
 
     </head>
-    <body id="home">
+    <body id="video">
 
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
@@ -38,16 +38,24 @@
       </div>
     </div>
 
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Welcome</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-      </div>
-    </div>
-
     <div id="main" class="container">
-      {{ content }}
+      <div class="row text-center">
+        {{ content }}
+      </div>
+      
+      <div class="page-header">
+        <h2>More Videos</h2>
+      </div>
+      <section id="video-thumbs">
+        <div class="col-sm-12">
+          {% for post in site.categories.videos %}
+          <div class="col-sm-3">
+            <a href="{{ post.url }}"><img src="http://img.youtube.com/vi/{{ post.thumbnail }}/0.jpg" class="thumbnail" width="200" height="150" /></a>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      <div class="clearfix"></div>
       <hr />
       <div class="row text-center">
         <div class="col-sm-6">
