@@ -1,0 +1,4 @@
+name: FeedWatch Support
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:title

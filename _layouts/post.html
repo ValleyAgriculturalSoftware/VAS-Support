@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="page-header">
+  <h2>{{ page.title }}</h2>
+  <small class="text-muted"><i class="fa fa-book"></i> {{ page.content | reading_time }}</small>
+</div>
+<!-- <p class="meta">{{ page.date | date_to_string }}</p> -->
+
+<div class="post">
+  {{ content }}
+</div>

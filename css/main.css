@@ -1,0 +1,23 @@
+#home {
+  background:url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/cream_dust.png') repeat;
+}
+
+#home #main {
+  margin-top: -40px !important;
+}
+
+#main {
+  margin-top: 50px;
+}
+
+.help-tile {
+  text-align: center;
+}
+
+.help-tile-row {
+  margin-bottom: 20px;
+}
+
+.list-group {
+  margin-top:45px;
+}
