@@ -16,13 +16,32 @@ categories: guides recipes
 
 3.	Navigate to the Recipe panel.  Enter the necessary information
 
+	<table class="table">
+	<tr>
+	<td>Name</td>
+	<td>Name of the recipe as desired (50 character limit).</td>
+	</tr>
+	<tr>
+	<td>Short Name</td>
+	<td>Uses the first 12 characters from the "Name" field.</td>
+	</tr>
+	<tr>
+	<td>Description</td>
+	<td>Allows recipe details to be entered (optional).</td>
+	</tr>
+	<tr>
+	<td>Density Factor</td>
+	<td>Measures the "density" or "fluff factor" of the recipe.  Displayed as a percentage of total mixer capacity.  By default, the percentage will be 100% of the mixer capacity when creating a new recipe.</td>
+	</tr>
+	</table>
+
 	<div class="alert alert-info"><strong>Note:</strong>. DM and AF values will be populated automatically once ingredients are added to the recipe.</div>
 
 	**Items noted in pink are required.*
 
 	![Recipe Form](/assets/recipes/creating-a-recipe/recipe-form-required.png)
  
-	You will not be able to “save” the new recipe until ingredient(s) are added to the recipe.
+	You will not be able to "save" the new recipe until ingredient(s) are added to the recipe.
 
 4.	Navigate to the **Instructions** panel.  
 
@@ -32,9 +51,36 @@ categories: guides recipes
  
 	A blank row will appear.
 
-	![New Instruction Row](/assets/recipes/creating-a-recipe/new-instruction.png)	
+	![New Instruction Row](/assets/recipes/creating-a-recipe/new-instruction.png)
  
 	Enter the necessary information for each ingredient desired to add to the recipe.
+
+	<table class="table">
+	  <tr>
+	  <td>Inventory Item Location</td>
+	  <td>Identifies which ingredient/location is to be added to the recipe.</td>
+	  </tr>
+	  <tr>
+	  <td>AF Qty/DM Qty</td>
+	  <td>Establishes the proportion of each ingredient to make up the recipe.</td>
+	  </tr>
+	  <tr>
+	  <td>Recipe Action</td>
+	  <td>Allows a specific instruction for the ingredient (i.e. mixing delay can be applied after ingredient is loaded).</td>
+	  </tr>
+	  <tr>
+	  <td>Sequence</td>
+	  <td>Establishes the order in which the ingredients will be added to the mixer (i.e. mixing order).</td>
+	  </tr>
+	  <tr>
+	  <td>Display Sequence</td>
+	  <td>Orders the ingredients on the desktop FW application ONLY (does NOT establish mixing order).</td>
+	  </tr>
+	  <tr>
+	  <td>Allow Manual Advance</td>
+	  <td>Checked = Permits the ingredient to be auto advanced when loading.</td>
+	  </tr>
+	  </table>
 
 6.	From the **Inventory Item Location** pull-down, pick the desired ingredient to add to the recipe.
 

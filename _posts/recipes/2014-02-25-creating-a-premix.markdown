@@ -5,31 +5,78 @@ date:   2014-02-25 09:58:41
 categories: guides recipes
 ---
 
+### From Ingredient Tab
 
-Something about creating a premix.
+1.	Click on the **Ingredients** icon from the ribbon bar.
 
-As you wish. Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you're going. He is here. Still, she's got a lot of spirit. I don't know, what do you think?
+	![](/assets/recipes/creating-a-premix/ingredients-icon.png)
 
-![Text](http://placehold.it/850x400)
+2.	From the list of Ingredients, find the ingredient that is desired to be made via a premix recipe.
 
-<div class="alert alert-info"><strong>Info</strong>. Point out something informational</div>
+3.	Click in the **Made By Recipe** column, pick the desired recipe.  (If the recipe hasn’t yet been created, refer to the "Creating a Recipe" section in this manual).
 
----------------
+	![](/assets/recipes/creating-a-premix/ingredients-grid.png)
+ 
+4.	Click Save.
 
-You don't believe in the Force, do you? You mean it controls your actions? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time! You don't believe in the Force, do you? You mean it controls your actions?
 
-![Text](http://placehold.it/850x400)
+	Verify that the recipe is now identified as a "premix" recipe.
 
-<div class="alert alert-danger"><strong>Warning</strong>. Point out something really important</div>
+5.	Click on the Recipes icon from the ribbon bar.
 
----------------
+	![](/assets/recipes/creating-a-premix/recipes-icon.png)
+ 
+6.	Find the recipe that was picked earlier.  Notice that the Premix check box is now checked for that recipe.  
 
-All right. Well, take care of yourself, Han. I guess that's what you're best at, ain't it? I don't know what you're talking about. I am a member of the Imperial Senate on a diplomatic mission to Alderaan-- Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is. Escape is not his plan. I must face him, alone. But with the blast shield down, I can't even see! How am I supposed to fight? Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
+	![](/assets/recipes/creating-a-premix/recipes-grid.png)
 
-![Text](http://placehold.it/850x400)
+### From Recipes Tab
 
-<div class="alert alert-warning"><strong>Tip</strong>. Point out something</div>
+1.	Create a recipe as you normally would (defined in previous steps above).  Notice the "Premix" check box is NOT checked.
 
----------------
+	![](/assets/recipes/creating-a-premix/recipes-grid-premix-highlighted.png)
+ 
+	Now, follow the steps below to allow a specific recipe to be generated as a premix.
 
-Still, she's got a lot of spirit. I don't know, what do you think? You're all clear, kid. Let's blow this thing and go home! Oh God, my uncle. How am I ever gonna explain this? You mean it controls your actions? I care. So, what do you think of her, Han? Ye-ha!
+2.	RIGHT-click on the recipe that you would like to allow to be made as a premix ingredient.  A fly-out menu will appear.
+
+3.	Click on Create Ingredient.
+
+	![](/assets/recipes/creating-a-premix/menu-create-ingredient.png)
+ 
+	A **Create Premix Ingredient** box will appear.
+	<table class="table">
+	<tr>
+	<td>Location</td>
+	<td>Set the location that the premix will be dropped to.</td>
+	<tr>
+	<td>Quantity</td>
+	<td>Sets the Quantity of the premix on hand. This assumes that the premix ingredient has already been physically made and that you have a physical quantity on hand.  It also assumes that the inventory balance is being tracked for this premix ingredient.</td>
+	</tr>
+	<tr>
+	<td>Update Ingredient</td>
+	<td>Checked = updates the premix ingredient with the location and quantity information specified </td>
+	</tr>
+	<tr>
+	<td>No Update</td>
+	<td>Checked = does not update the premix ingredient with the location and quantity information specified</td>
+	</tr>
+	<tr>
+	<td>New Location</td>
+	<td>Checked = assigns a new location for this premix ingredient</td>
+	</tr>
+	</table>
+	
+	Notice the **Premix** check box is now checked
+
+	![](/assets/recipes/creating-a-premix/premix-box-checked.png) 
+
+	Modify the new premix ingredient (if desired).
+
+4.	Click on the **Ingredients** tab.
+5.	Rename the premix ingredient as desired.
+6.	Set the load tolerance as desired.
+
+	![](/assets/recipes/creating-a-premix/ingredients-grid-premix.png)
+ 
+7.	Click **Save**.
