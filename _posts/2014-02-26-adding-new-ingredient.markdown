@@ -6,4 +6,4 @@ categories: videos
 thumbnail: ft0bAxOWFaU
 ---
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/ft0bAxOWFaU" frameborder="0" allowfullscreen></iframe>
+{% youtube ft0bAxOWFaU 853 480 %}
