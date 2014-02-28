@@ -6,30 +6,48 @@ categories: guides recipes
 ---
 
 
-Something about recipe adding.
+1.	Click on the **Recipes** icon from the ribbon bar.
 
-As you wish. Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you're going. He is here. Still, she's got a lot of spirit. I don't know, what do you think?
+	![Recipe Icon](\assets\recipes\creating-a-recipe\recipes-icon.png)
+ 
+2.	Click on the **New** icon from the Recipes toolbar.
 
-![Text](http://placehold.it/850x400)
+	![Recipe Icon](\assets\recipes\creating-a-recipe\recipes-icon.png)
 
-<div class="alert alert-info"><strong>Info</strong>. Point out something informational</div>
+3.	Navigate to the Recipe panel.  Enter the necessary information
 
----------------
+	<div class="alert alert-info"><strong>Note:</strong>. DM and AF values will be populated automatically once ingredients are added to the recipe.</div>
 
-You don't believe in the Force, do you? You mean it controls your actions? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time! You don't believe in the Force, do you? You mean it controls your actions?
+	**Items noted in pink are required.*
 
-![Text](http://placehold.it/850x400)
+	![Recipe Icon](\assets\recipes\creating-a-recipe\recipe-form-required.png)
+ 
+	You will not be able to “save” the new recipe until ingredient(s) are added to the recipe.
 
-<div class="alert alert-danger"><strong>Warning</strong>. Point out something really important</div>
+4.	Navigate to the **Instructions** panel.  
 
----------------
+5.	Click on the **New** icon from the Instructions toolbar.
 
-All right. Well, take care of yourself, Han. I guess that's what you're best at, ain't it? I don't know what you're talking about. I am a member of the Imperial Senate on a diplomatic mission to Alderaan-- Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is. Escape is not his plan. I must face him, alone. But with the blast shield down, I can't even see! How am I supposed to fight? Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
+	![Recipe Icon](\assets\recipes\creating-a-recipe\toolbar-instructions-new-highlighted.png)
+ 
+	A blank row will appear.
 
-![Text](http://placehold.it/850x400)
+	![Recipe Icon](\assets\recipes\creating-a-recipe\new-instruction.png)	
+ 
+	Enter the necessary information for each ingredient desired to add to the recipe.
 
-<div class="alert alert-warning"><strong>Tip</strong>. Point out something</div>
+6.	From the **Inventory Item Location** pull-down, pick the desired ingredient to add to the recipe.
 
----------------
+	![Recipe Icon](\assets\recipes\creating-a-recipe\new-instruction-item-dropdown.png)	
+ 
+7.	Enter a quantity amount (either AF or DM).
 
-Still, she's got a lot of spirit. I don't know, what do you think? You're all clear, kid. Let's blow this thing and go home! Oh God, my uncle. How am I ever gonna explain this? You mean it controls your actions? I care. So, what do you think of her, Han? Ye-ha!
+	<div class="alert alert-warning"><strong>Warning:</strong>The “recipe quantity” (AF Qty or DM Qty) does NOT drive the amount of feed targeted to a pen.  To modify targeted intake amounts for a pen, change the feeding quantity via the Pens tab.  For more information, refer to the “Adding Feeding(s) to an Existing Pen” section of this manual.</div>
+
+8.	Modify the other fields if desired (optional).
+
+	![Recipe Icon](\assets\recipes\creating-a-recipe\new-instruction-fields.png)
+ 
+9.	Repeat the steps noted above to add as many ingredients as desired to the recipe.
+
+10.	Click **Save**.
