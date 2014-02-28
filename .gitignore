@@ -2,3 +2,4 @@ _site
 .ruby-gemset
 .ruby-version
 .DS_Store
+s3_website.yml

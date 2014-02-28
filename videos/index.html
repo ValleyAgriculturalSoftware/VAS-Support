@@ -1,0 +1,14 @@
+---
+layout: empty
+title: Videos
+---
+
+<section id="video-thumbs">
+  <div class="col-sm-12">
+    {% for post in site.categories.videos %}
+    <div class="col-sm-4">
+      <a href="{{ post.url }}"><img src="http://img.youtube.com/vi/{{ post.thumbnail }}/0.jpg" class="thumbnail" width="350" height="250" /></a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
