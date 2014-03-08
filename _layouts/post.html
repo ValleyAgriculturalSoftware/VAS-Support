@@ -9,4 +9,9 @@ layout: default
 
 <div class="post">
   {{ content }}
+  <div class="row">
+    <div class="col-sm-4 pull-right">
+      <small class="text-muted">Last Updated: {{ page.mod_date | | date: "%B %d %Y" }}</small>
+    </div>
+  </div>
 </div>

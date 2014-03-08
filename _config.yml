@@ -5,6 +5,7 @@ redcarpet:
 pygments: true
 permalink: /:categories/:title
 exclude: [README.md, Gemfile, Gemfile.lock]
+timezone: America/Los_Angeles
 
 sass:
     style:  expanded  # nested|expanded|compact|compressed

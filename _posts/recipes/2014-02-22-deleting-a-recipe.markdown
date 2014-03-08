@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deleting A Recipe"
-date:   2014-02-22 09:58:40
+mod_date: 2014-03-08 12:00:00
 categories: guides recipes
 ---
 

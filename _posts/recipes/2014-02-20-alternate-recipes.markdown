@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alternate Recipes"
-date:   2014-02-20 09:58:40
+mod_date: 2014-03-08 12:00:00
 categories: guides recipes
 ---
 
