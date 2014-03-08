@@ -7,7 +7,7 @@ categories: guides recipes
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/recipe-icon.png)
+	![](/assets/images/image129.png)
 
 2.	From the recipe list, click on the recipe that you would like to add a mixing delay to.
 
@@ -19,21 +19,21 @@ categories: guides recipes
 
 5.	Click on the **New** icon from the Instructions toolbar.
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/instructions-bar.png)
+	![](/assets/images/image133.png)
 
 	A blank row will appear.
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/grid-blank-row.png)
+	![](/assets/images/image149.jpg)
 
 6.	From the **Recipe Action** pull-down, pick **Delay**.
 
 	Notice some of the fields will automatically turn gray.
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/disabled-fields.png)
+	![](/assets/images/image150.jpg)
 
 7.	Enter a delay **Quantity** (quantity is in minutes).
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/add-quantity.png)
+	![](/assets/images/image151.jpg)
 
 	Now modify the Delay to occur after the desired ingredient.
 
@@ -43,7 +43,7 @@ categories: guides recipes
 
 9.	Click **Save**.
 
-	![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/modify-sequence.png)
+	![](/assets/images/image152.jpg)
 
 	In this example, the following will occur:
 	-	Wheat Straw will be loaded
@@ -51,6 +51,6 @@ categories: guides recipes
 	-	Triticale Silage will be loaded
 	-	...and so on
 
-![](/assets/recipes/adding-a-mixing-delay-to-a-recipe/delay.png)
+![](/assets/images/image153.jpg)
 
 If desired, repeat the steps to add additional delay timers to the recipe.

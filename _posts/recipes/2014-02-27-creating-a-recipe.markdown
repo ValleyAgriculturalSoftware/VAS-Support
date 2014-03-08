@@ -8,11 +8,11 @@ categories: guides recipes
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![Recipe Icon](/assets/recipes/creating-a-recipe/recipes-icon.png)
+	![Recipe Icon](/assets/images/image129.png)
 
 2.	Click on the **New** icon from the Recipes toolbar.
 
-	![New](/assets/recipes/creating-a-recipe/toolbar-new-highlighted.png)
+	![New](/assets/images/image130.png)
 
 3.	Navigate to the Recipe panel.  Enter the necessary information
 
@@ -27,7 +27,7 @@ categories: guides recipes
 
 	**Items noted in pink are required.*
 
-	![Recipe Form](/assets/recipes/creating-a-recipe/recipe-form-required.png)
+	![Recipe Form](/assets/images/image132.jpg)
 
 	You will not be able to "save" the new recipe until ingredient(s) are added to the recipe.
 
@@ -35,11 +35,11 @@ categories: guides recipes
 
 5.	Click on the **New** icon from the Instructions toolbar.
 
-	![New Instructions](/assets/recipes/creating-a-recipe/toolbar-instructions-new-highlighted.png)
+	![New Instructions](/assets/images/image133.png)
 
 	A blank row will appear.
 
-	![New Instruction Row](/assets/recipes/creating-a-recipe/new-instruction.png)
+	![New Instruction Row](/assets/images/image134.png)
 
 	Enter the necessary information for each ingredient desired to add to the recipe.
 
@@ -55,7 +55,7 @@ categories: guides recipes
 
 6.	From the **Inventory Item Location** pull-down, pick the desired ingredient to add to the recipe.
 
-	![Ingredient Dropdown](/assets/recipes/creating-a-recipe/new-instruction-item-dropdown.png)
+	![Ingredient Dropdown](/assets/images/image135.jpg)
 
 7.	Enter a quantity amount (either AF or DM).
 
@@ -63,7 +63,7 @@ categories: guides recipes
 
 8.	Modify the other fields if desired (optional).
 
-	![Instruction Fields](/assets/recipes/creating-a-recipe/new-instruction-fields.png)
+	![Instruction Fields](/assets/images/image137.jpg)
 
 9.	Repeat the steps noted above to add as many ingredients as desired to the recipe.
 
