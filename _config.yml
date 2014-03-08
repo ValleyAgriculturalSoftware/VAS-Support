@@ -4,7 +4,7 @@ redcarpet:
   extensions: ["tables"]
 pygments: true
 permalink: /:categories/:title
-exclude: [README.md]
+exclude: [README.md, Gemfile, Gemfile.lock]
 
 sass:
     style:  expanded  # nested|expanded|compact|compressed
