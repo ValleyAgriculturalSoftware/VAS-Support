@@ -16,7 +16,7 @@ categories: guides recipes
 3.	Click in the **Made By Recipe** column, pick the desired recipe.  (If the recipe hasn’t yet been created, refer to the "Creating a Recipe" section in this manual).
 
 	![](/assets/recipes/creating-a-premix/ingredients-grid.png)
- 
+
 4.	Click Save.
 
 
@@ -25,7 +25,7 @@ categories: guides recipes
 5.	Click on the Recipes icon from the ribbon bar.
 
 	![](/assets/recipes/creating-a-premix/recipes-icon.png)
- 
+
 6.	Find the recipe that was picked earlier.  Notice that the Premix check box is now checked for that recipe.  
 
 	![](/assets/recipes/creating-a-premix/recipes-grid.png)
@@ -35,7 +35,7 @@ categories: guides recipes
 1.	Create a recipe as you normally would (defined in previous steps above).  Notice the "Premix" check box is NOT checked.
 
 	![](/assets/recipes/creating-a-premix/recipes-grid-premix-highlighted.png)
- 
+
 	Now, follow the steps below to allow a specific recipe to be generated as a premix.
 
 2.	RIGHT-click on the recipe that you would like to allow to be made as a premix ingredient.  A fly-out menu will appear.
@@ -43,33 +43,22 @@ categories: guides recipes
 3.	Click on Create Ingredient.
 
 	![](/assets/recipes/creating-a-premix/menu-create-ingredient.png)
- 
+
 	A **Create Premix Ingredient** box will appear.
-	<table class="table">
-	<tr>
-	<td>Location</td>
-	<td>Set the location that the premix will be dropped to.</td>
-	<tr>
-	<td>Quantity</td>
-	<td>Sets the Quantity of the premix on hand. This assumes that the premix ingredient has already been physically made and that you have a physical quantity on hand.  It also assumes that the inventory balance is being tracked for this premix ingredient.</td>
-	</tr>
-	<tr>
-	<td>Update Ingredient</td>
-	<td>Checked = updates the premix ingredient with the location and quantity information specified </td>
-	</tr>
-	<tr>
-	<td>No Update</td>
-	<td>Checked = does not update the premix ingredient with the location and quantity information specified</td>
-	</tr>
-	<tr>
-	<td>New Location</td>
-	<td>Checked = assigns a new location for this premix ingredient</td>
-	</tr>
-	</table>
-	
+
+
+	|      |      |
+	| ---- | ---- |
+	| Location | Set the location that the premix will be dropped to. |
+	| Quantity | Sets the Quantity of the premix on hand. This assumes that the premix ingredient has already been physically made and that you have a physical quantity on hand. It also assumes that the inventory balance is being tracked for this premix ingredient. |
+	| Update Ingredient | Sets the Quantity of the premix on hand. This assumes that the premix ingredient has already been physically made and that you have a physical quantity on hand. It also assumes that the inventory balance is being tracked for this premix ingredient. |
+	| No Update | Checked = does not update the premix ingredient with the location and quantity information specified |
+	| New Location | Checked = assigns a new location for this premix ingredient |
+
+
 	Notice the **Premix** check box is now checked
 
-	![](/assets/recipes/creating-a-premix/premix-box-checked.png) 
+	![](/assets/recipes/creating-a-premix/premix-box-checked.png)
 
 	Modify the new premix ingredient (if desired).
 
@@ -78,5 +67,5 @@ categories: guides recipes
 6.	Set the load tolerance as desired.
 
 	![](/assets/recipes/creating-a-premix/ingredients-grid-premix.png)
- 
+
 7.	Click **Save**.

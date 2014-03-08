@@ -3,3 +3,4 @@ _site
 .ruby-version
 .DS_Store
 s3_website.yml
+.sass-cache

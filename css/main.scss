@@ -1,3 +1,5 @@
+@import "bootstrap";
+
 #home {
   background:url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/cream_dust.png') repeat;
 }
@@ -45,4 +47,12 @@
 }
 
 .video-tile a img {
+}
+
+// Overwrite some defaults
+
+table {
+  @extend .table;
+  @extend .table-striped;
+  @extend .table-hover;
 }
