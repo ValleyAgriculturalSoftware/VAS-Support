@@ -23,7 +23,7 @@ categories: guides recipes
 	| Description | Allows recipe details to be entered (optional). |
 	| Density Factor | Measures the "density" or "fluff factor" of the recipe.  Displayed as a percentage of total mixer capacity.  By default, the percentage will be 100% of the mixer capacity when creating a new recipe. |
 
-	<div class="alert alert-info"><strong>Note:</strong>. DM and AF values will be populated automatically once ingredients are added to the recipe.</div>
+	{% infoblock info DM and AF values will be populated automatically once ingredients are added to the recipe. %}
 
 	**Items noted in pink are required.*
 
@@ -59,7 +59,7 @@ categories: guides recipes
 
 7.	Enter a quantity amount (either AF or DM).
 
-	<div class="alert alert-warning"><strong>Warning:</strong> The "recipe quantity" (AF Qty or DM Qty) does NOT drive the amount of feed targeted to a pen.  To modify targeted intake amounts for a pen, change the feeding quantity via the Pens tab.  For more information, refer to the “Adding Feeding(s) to an Existing Pen” section of this manual.</div>
+	{% infoblock danger The "recipe quantity" (AF Qty or DM Qty) does NOT drive the amount of feed targeted to a pen.  To modify targeted intake amounts for a pen, change the feeding quantity via the Pens tab.  For more information, refer to the “Adding Feeding(s) to an Existing Pen” section of this manual. %}
 
 8.	Modify the other fields if desired (optional).
 
