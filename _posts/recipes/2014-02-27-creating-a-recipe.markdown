@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Adding A Recipe"
-date:   2014-02-26 09:58:40
+title:  "Creating A Recipe"
+date:   2014-02-27 09:58:40
 categories: guides recipes
 ---
 
