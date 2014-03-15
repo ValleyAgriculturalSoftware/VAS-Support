@@ -50,8 +50,8 @@ categories: guides pens
   ![](/assets/images/image187.jpg)
 
 
-  {% infoblock info If an Alternate Recipe is being fed, you will see a recipe name listed under “Alt Recipe.” If the Alt Recipe is blank, than the primary recipe (Recipe column) will be fed. %}
+  {% infoblock note If an Alternate Recipe is being fed, you will see a recipe name listed under “Alt Recipe.” If the Alt Recipe is blank, than the primary recipe (Recipe column) will be fed. %}
 
 6. Click **Save**
 
-{% infoblock danger The targeted DM Intake quantity (DM/HD) for a pen is NOT dependent on the "recipe quantity" noted on the Recipes tab. To modify targeted intake amounts, change the feed quantity on the Pens tab NOT on the Recipes tab. %}
+{% infoblock warning The targeted DM Intake quantity (DM/HD) for a pen is NOT dependent on the "recipe quantity" noted on the Recipes tab. To modify targeted intake amounts, change the feed quantity on the Pens tab NOT on the Recipes tab. %}

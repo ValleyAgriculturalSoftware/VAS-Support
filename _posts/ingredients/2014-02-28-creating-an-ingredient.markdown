@@ -57,9 +57,9 @@ information.
   ![](/assets/images/image107.jpg)
  
 
-  {% infoblock danger DM % and Inventory DM % are NOT the same. Use caution to ensure you are viewing and/or modifying the correct percentage when working with DM% of an ingredient. %}
+  {% infoblock warning DM % and Inventory DM % are NOT the same. Use caution to ensure you are viewing and/or modifying the correct percentage when working with DM% of an ingredient. %}
 
-  {% infoblock info You only need to enter the cost once (i.e. If you enter the cost in AF, FeedWatch will calculate the DM Cost for you). %}
+  {% infoblock tip You only need to enter the cost once (i.e. If you enter the cost in AF, FeedWatch will calculate the DM Cost for you). %}
 
 
 

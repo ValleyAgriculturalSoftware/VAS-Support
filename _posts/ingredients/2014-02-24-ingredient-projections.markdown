@@ -5,9 +5,7 @@ mod_date: 2014-03-08 12:00:00
 categories: guides ingredients
 ---
 
-Ingredient projections are the expected individual ingredient usage
-quantities based on current feeding rates.  There are several places to
-view ingredient projections in FeedWatch.
+Ingredient projections are the expected individual ingredient usage quantities based on current feeding rates.  There are several places to view ingredient projections in FeedWatch.
 
 * Ingredients tab \> Ingredients main grid
 

@@ -92,4 +92,4 @@ the list.
 
 15. Click **Save**.
 
-{% infoblock info When creating a pen, setting up feeding(s) for that pen is not required. For instructions on adding feedings to a pen, refer to the "Adding Feeding(s) to an Existing Pen" section of this manual. %}
+{% infoblock note When creating a pen, setting up feeding(s) for that pen is not required. For instructions on adding feedings to a pen, refer to the "Adding Feeding(s) to an Existing Pen" section of this manual. %}

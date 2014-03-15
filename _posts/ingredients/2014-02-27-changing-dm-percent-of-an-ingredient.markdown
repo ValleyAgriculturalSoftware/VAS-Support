@@ -17,7 +17,7 @@ After an ingredient is tested and an updated DM % is obtained, follow the steps 
 
   ![](/assets/images/image112.jpg)
 
-  {% infoblock danger Changing the DM % of the ingredient will automatically modify the amount of AF lbs. being fed of that ingredient. %}
+  {% infoblock warning Changing the DM % of the ingredient will automatically modify the amount of AF lbs. being fed of that ingredient. %}
 
 
 4. Click **Save**.

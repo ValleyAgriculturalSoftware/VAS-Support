@@ -16,4 +16,4 @@ features.  Some of these enhancements include:
 * More user friendly method to modify existing reports
 
  
-{% infoblock warning Reports can be setup to be automatically emailed in FeedWatch. For more details on setting up report(s) to be automatically emailed, refer to the "Task Scheduler" section of this manual. %}
+{% infoblock tip Reports can be setup to be automatically emailed in FeedWatch. For more details on setting up report(s) to be automatically emailed, refer to the "Task Scheduler" section of this manual. %}

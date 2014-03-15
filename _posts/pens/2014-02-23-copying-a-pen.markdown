@@ -5,9 +5,7 @@ mod_date: 2014-03-08 12:00:00
 categories: guides pens
 ---
 
-If you would like to create a pen that is very similar to an existing
-pen, you do not need to create the new pen.  Rather, you could simply
-copy an existing pen and then change the new pen accordingly.
+If you would like to create a pen that is very similar to an existing pen, you do not need to create the new pen.  Rather, you could simply copy an existing pen and then change the new pen accordingly.
 
 1. Click on the **Pens** icon from the ribbon bar.
 

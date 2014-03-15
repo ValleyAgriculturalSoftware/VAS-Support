@@ -6,7 +6,7 @@ categories: guides ingredients
 ---
 
 
-{% infoblock danger Prior to deleting an ingredient, make sure the ingredient isn’t used in any recipe or premix. %}
+{% infoblock warning Prior to deleting an ingredient, make sure the ingredient isn’t used in any recipe or premix. %}
  
 
 1. Click on the **Ingredients** icon from the ribbon bar.

@@ -5,7 +5,7 @@ mod_date: 2014-03-08 12:00:00
 categories: guides recipes
 ---
 
-{% infoblock warning Prior to setting up an "alternate recipe" you will need to create a new recipe (Example: "primary" recipe has Whey and the "alternate" recipe does not have Whey). So the recipe without Whey would need to be created. Refer to Creating a Recipe and/or Copying a Recipe sections of this manual for more information on setting up a new recipe. %}
+{% infoblock tip Prior to setting up an "alternate recipe" you will need to create a new recipe (Example: "primary" recipe has Whey and the "alternate" recipe does not have Whey). So the recipe without Whey would need to be created. Refer to Creating a Recipe and/or Copying a Recipe sections of this manual for more information on setting up a new recipe. %}
 
 
 ### Setting up an Alternate Recipe
@@ -71,4 +71,4 @@ panel.
 
   ![](/assets/images/image168.png)
 
-{% infoblock warning To verify if an alternate recipe is being fed, you can also go to the Pens tab to do so. Refer to the "Adding Feeding(s) to an Exiting Pen" section of this manual for more information. %}
+{% infoblock tip To verify if an alternate recipe is being fed, you can also go to the Pens tab to do so. Refer to the "Adding Feeding(s) to an Exiting Pen" section of this manual for more information. %}

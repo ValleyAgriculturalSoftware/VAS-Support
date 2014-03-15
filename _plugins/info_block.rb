@@ -1,5 +1,5 @@
 class InfoBlock < Liquid::Tag
-  Message = /(info|warning|danger) (.*)/
+  Message = /(note|tip|warning) (.*)/
 
   def initialize(tagName, markup, tokens)
     super
@@ -8,12 +8,18 @@ class InfoBlock < Liquid::Tag
       @type = $1
 
       case @type
-      when "info"
+      when "note"
         @title = "Note"
-      when "warning"
+        @class = "info"
+        @icon = "fa-file-text-o"
+      when "tip"
         @title = "Tip"
-      when "danger"
+        @class = "warning"
+        @icon = "fa-lightbulb-o"
+      when "warning"
         @title = "Warning"
+        @class = "danger"
+        @icon = "fa-exclamation-triangle"
       end
 
       if $2.nil?
@@ -27,7 +33,7 @@ class InfoBlock < Liquid::Tag
   end
 
   def render(context)
-    "<div class=\"alert alert-#{@type}\"><strong>#{@title}</strong>: #{@message}</div>"
+    "<div class=\"alert alert-#{@class}\"><p><i class=\"fa #{@icon} fa-2x pull-left\"></i><strong>#{@title}</strong>: #{@message}</p></div>"
   end
 
   Liquid::Template.register_tag "infoblock", self

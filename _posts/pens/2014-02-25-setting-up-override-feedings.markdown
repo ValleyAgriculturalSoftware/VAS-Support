@@ -5,7 +5,7 @@ mod_date: 2014-03-08 12:00:00
 categories: guides pens
 ---
 
-{% infoblock info In FeedWatch Versions 7.5 and 7.6 "Override Feedings" were setup as "Max/Balance" feedings. %}
+{% infoblock note In FeedWatch Versions 7.5 and 7.6 "Override Feedings" were setup as "Max/Balance" feedings. %}
  
 
 1. Click on the **Pens** icon from the ribbon bar.
