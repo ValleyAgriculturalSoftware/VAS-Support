@@ -1,35 +1,53 @@
 <div class="row help-tile-row">
   <div class="col-sm-4 help-tile">
-    <img src="http://placehold.it/350x250&text=Setup" class="img-rounded" />
-    <p class="text-left">Setup</p>
+    {% for post in site.categories.setup | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Setup" class="img-rounded" />
+      </a>
+      <p class="text-left">Setup</p>
+    {% endfor %}
   </div>
   <div class="col-sm-4 help-tile">
-    <a href="/guides/pens/creating-a-pen/">
-      <img src="http://placehold.it/350x250&text=Pens" class="img-rounded" />
-    </a>
-    <p class="text-left">Pens</p>
+    {% for post in site.categories.pens | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Pens" class="img-rounded" />
+      </a>
+      <p class="text-left">Pens</p>
+    {% endfor %}
   </div>
   <div class="col-sm-4 help-tile">
-    <a href="/guides/recipes/creating-a-recipe/">
-      <img src="http://placehold.it/350x250&text=Recipes" class="img-rounded" />
-    </a>
-    <p class="text-left">Something about a description about recipes</p>
+    {% for post in site.categories.recipes | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Recipes" class="img-rounded" />
+      </a>
+      <p class="text-left">Something about a description about recipes</p>
+    {% endfor %}
   </div>
 </div>
 
 <div class="row">
   <div class="col-sm-4 help-tile">
-    <a href="/guides/ingredients/creating-an-ingredient/">
-      <img src="http://placehold.it/350x250&text=Ingredients" class="img-rounded" />
-    </a>
-    <p class="text-left">Ingredients</p>
+    {% for post in site.categories.ingredients | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Ingredients" class="img-rounded" />
+      </a>
+      <p class="text-left">Ingredients</p>
+    {% endfor %}
   </div>
   <div class="col-sm-4 help-tile">
-    <img src="http://placehold.it/350x250&text=Inventory" class="img-rounded" />
-    <p class="text-left">Inventory</p>
+    {% for post in site.categories.inventory | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Inventory" class="img-rounded" />
+      </a>
+      <p class="text-left">Inventory</p>
+    {% endfor %}
   </div>
   <div class="col-sm-4 help-tile">
-    <img src="http://placehold.it/350x250&text=Reports" class="img-rounded" />
-    <p class="text-left">Reports</p>
+    {% for post in site.categories.reports | limit:1 %}
+      <a href="{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=Reports" class="img-rounded" />
+      </a>
+      <p class="text-left">Reports</p>
+    {% endfor %}
   </div>
 </div>
