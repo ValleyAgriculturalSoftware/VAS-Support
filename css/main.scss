@@ -1,25 +1,32 @@
+// Globals
+$gold: #DC9100;
+$white: #fff;
+$black: #000;
+
+// Navbar
+$navbar-inverse-bg: $gold;
+$navbar-inverse-color: $gold;
+$navbar-inverse-link-color: $black;
+
 @import "bootstrap";
 
 #home {
   background:url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/cream_dust.png') repeat;
-}
 
-#home #main {
-  margin-top: -40px !important;
-}
-
-#video #main {
-  margin-top: 75px;
+  #main {
+    margin-top: -50px !important;
+  }
 }
 
 #main {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .jumbotron {
   background:url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/gplaypattern.png') repeat fixed;
 }
 
+// Help Tiles
 .help-tile {
   text-align: center;
 }
@@ -32,30 +39,34 @@
   margin-top:45px;
 }
 
-.overlay:after {
-  background:rgba(0,0,0,0.5) url("/assets/playicon.png") center center no-repeat;
-  background-size:75px 75px;
-  content:"";
-  display:block;
-  height:250px;
-  left:2;
-  pointer-events:none;
-  position:absolute;
-  top:0;
-  width:350px;
+// Video Button Overlays
+.overlay {
+  &:after{
+    background:rgba(0,0,0,0.5) url("/assets/playicon.png") center center no-repeat;
+    background-size:75px 75px;
+    content:"";
+    display:block;
+    height:250px;
+    left:2;
+    pointer-events:none;
+    position:absolute;
+    top:0;
+    width:350px;
+  }
+
+  &:hover{
+    &:after{
+      background-color:rgba(0,0,0,0);
+      background-size:50px 50px
+    }
+  }
 }
 
-.overlay:hover:after {
-  background-color:rgba(0,0,0,0);
-  background-size:50px 50px
-}
 
-.video-tile a img {
-}
-
+// Affix Left Menu
 .affix-top {
   position: fixed;
-  top: 50px;
+  top: 100px;
 }
 
 // Overwrite some defaults
