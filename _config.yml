@@ -1,8 +1,8 @@
 name: FeedWatch Support
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables"]
-pygments: true
+highlighter: pygments
 permalink: /:categories/:title
 exclude: [README.md, Gemfile, Gemfile.lock, bower_components, bower.json, Gruntfile.js, package.json, node_modules, scss]
 timezone: America/Los_Angeles
