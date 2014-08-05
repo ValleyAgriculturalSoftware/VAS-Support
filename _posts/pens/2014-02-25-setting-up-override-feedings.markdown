@@ -10,7 +10,7 @@ categories: guides pens
 
 1.  Click on the **Pens** icon from the ribbon bar.
 
-    ![](/assets/images/image172.png)
+    ![]({{ site.baseurl }}/assets/images/image172.png)
 
 2.  Click on the pen that you would like to modify.
 
@@ -18,15 +18,15 @@ categories: guides pens
 
 4.  In the **Override AF Qty** column, type in the exact amount of feed you want to feed (for this feeding only).
 
-    ![](/assets/images/image191.jpg)
+    ![]({{ site.baseurl }}/assets/images/image191.jpg)
 
 5.  Click **Save**.
 
     A second feeding in this period will automatically be created. This is a "balance" feeding. The balance feeding will consume ALL the remaining targeted feed for this period.
 
-    ![](/assets/images/image192.png)
+    ![]({{ site.baseurl }}/assets/images/image192.png)
 
-    ![](/assets/images/image193.png)
+    ![]({{ site.baseurl }}/assets/images/image193.png)
 
     *In this example:*
 

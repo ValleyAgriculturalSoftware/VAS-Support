@@ -9,13 +9,13 @@ After an ingredient is tested and an updated DM % is obtained, follow the steps 
 
 1.  Click on the **Ingredients** icon from the ribbon bar.
 
-    ![](/assets/images/image103.png)
+    ![]({{ site.baseurl }}/assets/images/image103.png)
 
 2.  Navigate to the **Locations** panel.
 
 3.  Enter the updated **DM %**.
 
-    ![](/assets/images/image112.jpg)
+    ![]({{ site.baseurl }}/assets/images/image112.jpg)
 
     {% infoblock warning Changing the DM % of the ingredient will automatically modify the amount of AF lbs. being fed of that ingredient. %}
 
@@ -37,11 +37,11 @@ from the tab.
 
 9.  Click on the **All Ingredients** icon from the ribbon bar.
 
-    ![](/assets/images/image091.png)
+    ![]({{ site.baseurl }}/assets/images/image091.png)
 
 1.  Navigate to the ingredient that was created earlier in this manual.Enter the updated **DM %**.
 
-    ![](/assets/images/image115.png)
+    ![]({{ site.baseurl }}/assets/images/image115.png)
 
 11.  To update another ingredient, simply press [Enter] on your keyboard or left-click in the field that you would like to change.
 

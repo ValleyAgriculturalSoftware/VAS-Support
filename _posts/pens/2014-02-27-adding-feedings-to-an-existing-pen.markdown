@@ -7,7 +7,7 @@ categories: guides pens
 
 1.  For your reference, go to the recipe that you would like to assign to a pen. Check to see of it is currently "active."
 
-    ![](/assets/images/image184.png)
+    ![]({{ site.baseurl }}/assets/images/image184.png)
 
     Notice that in this example that the "Springer" recipe is currently NOT active (i.e. not being fed).
 
@@ -15,7 +15,7 @@ categories: guides pens
 
 2.  Click on the **Pens** icon from the ribbon bar.
 
-    ![](/assets/images/image172.png)
+    ![]({{ site.baseurl }}/assets/images/image172.png)
 
 3.  Click on the pen that you would like to add feeding(s) to.
 
@@ -23,11 +23,11 @@ categories: guides pens
 
 5.  Click on the **New** icon from the Feedings toolbar.
 
-    ![](/assets/images/image185.png)
+    ![]({{ site.baseurl }}/assets/images/image185.png)
 
     A blank row will appear.
 
-    ![](/assets/images/image186.jpg)
+    ![]({{ site.baseurl }}/assets/images/image186.jpg)
 
     Enter the necessary information for the feeding.
 
@@ -47,7 +47,7 @@ categories: guides pens
 
     *Items noted in pink are required.
 
-    ![](/assets/images/image187.jpg)
+    ![]({{ site.baseurl }}/assets/images/image187.jpg)
 
 
     {% infoblock note If an Alternate Recipe is being fed, you will see a recipe name listed under “Alt Recipe.” If the Alt Recipe is blank, than the primary recipe (Recipe column) will be fed. %}

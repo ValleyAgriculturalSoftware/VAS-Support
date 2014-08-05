@@ -7,11 +7,11 @@ categories: guides pens
 
 1.  Click on the **Pens** icon from the ribbon bar.
 
-    ![](/assets/images/image172.png)
+    ![]({{ site.baseurl }}/assets/images/image172.png)
 
 2.  Click on the **New** icon from the Pens toolbar.
 
-    ![](/assets/images/image173.png)
+    ![]({{ site.baseurl }}/assets/images/image173.png)
 
 3.  Navigate to the **Pen** panel.  Enter the necessary information.
 
@@ -24,23 +24,23 @@ categories: guides pens
 
     *Items noted in pink are required.
 
-    ![](/assets/images/image174.png)
+    ![]({{ site.baseurl }}/assets/images/image174.png)
 
 4.  To specify the Pen Type, click on the browse button.
 
-    ![](/assets/images/image175.png)
+    ![]({{ site.baseurl }}/assets/images/image175.png)
 
     A **Pen Types** box will appear.
 
 5.  Click on the **New** icon in the Pen Types box.
 
-    ![](/assets/images/image176.png)
+    ![]({{ site.baseurl }}/assets/images/image176.png)
 
     A blank row will appear.
 
 6.  From the **Pen Type** pull-down, pick the desired pen type from the list.
 
-    ![](/assets/images/image177.png)
+    ![]({{ site.baseurl }}/assets/images/image177.png)
 
 
 7.  If desired, repeat the last two steps to add additional pen types to this new pen.
@@ -51,19 +51,19 @@ categories: guides pens
 
 9.  Click on the Zone browse button.
 
-    ![](/assets/images/image178.png)
+    ![]({{ site.baseurl }}/assets/images/image178.png)
 
     A **Pen Zones** box will appear.
 
 1.  Click on the **New** icon in the Pen Zones box.
 
-    ![](/assets/images/image179.png)
+    ![]({{ site.baseurl }}/assets/images/image179.png)
 
     A blank row will appear.
 
 1.  From the **Zone** pull-down, pick the desired Zone from the list.
 
-    ![](/assets/images/image180.png)
+    ![]({{ site.baseurl }}/assets/images/image180.png)
 
 1.  If desired, repeat the last two steps to add additional zones to this new pen.
 
@@ -87,7 +87,7 @@ categories: guides pens
 
     *Items noted in pink are required.
 
-    ![](/assets/images/image181.png)
+    ![]({{ site.baseurl }}/assets/images/image181.png)
 
 1.  Click **Save**.
 

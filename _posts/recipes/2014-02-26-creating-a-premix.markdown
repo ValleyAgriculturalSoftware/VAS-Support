@@ -9,13 +9,13 @@ categories: guides recipes
 
 1.	Click on the **Ingredients** icon from the ribbon bar.
 
-	![](/assets/images/image103.png)
+	![]({{ site.baseurl }}/assets/images/image103.png)
 
 2.	From the list of Ingredients, find the ingredient that is desired to be made via a premix recipe.
 
 3.	Click in the **Made By Recipe** column, pick the desired recipe.  (If the recipe hasn’t yet been created, refer to the "Creating a Recipe" section in this manual).
 
-	![](/assets/images/image138.jpg)
+	![]({{ site.baseurl }}/assets/images/image138.jpg)
 
 4.	Click Save.
 
@@ -24,17 +24,17 @@ categories: guides recipes
 
 5.	Click on the Recipes icon from the ribbon bar.
 
-	![](/assets/images/image129.png)
+	![]({{ site.baseurl }}/assets/images/image129.png)
 
 6.	Find the recipe that was picked earlier.  Notice that the Premix check box is now checked for that recipe.  
 
-	![](/assets/images/image139.jpg)
+	![]({{ site.baseurl }}/assets/images/image139.jpg)
 
 ### From Recipes Tab
 
 1.	Create a recipe as you normally would (defined in previous steps above).  Notice the "Premix" check box is NOT checked.
 
-	![](/assets/images/image140.jpg)
+	![]({{ site.baseurl }}/assets/images/image140.jpg)
 
 	Now, follow the steps below to allow a specific recipe to be generated as a premix.
 
@@ -42,7 +42,7 @@ categories: guides recipes
 
 3.	Click on Create Ingredient.
 
-	![](/assets/images/image141.jpg)
+	![]({{ site.baseurl }}/assets/images/image141.jpg)
 
 	A **Create Premix Ingredient** box will appear.
 
@@ -58,7 +58,7 @@ categories: guides recipes
 
 	Notice the **Premix** check box is now checked
 
-	![](/assets/images/image142.jpg)
+	![]({{ site.baseurl }}/assets/images/image142.jpg)
 
 	Modify the new premix ingredient (if desired).
 
@@ -66,6 +66,6 @@ categories: guides recipes
 5.	Rename the premix ingredient as desired.
 6.	Set the load tolerance as desired.
 
-	![](/assets/images/image143.jpg)
+	![]({{ site.baseurl }}/assets/images/image143.jpg)
 
 7.	Click **Save**.

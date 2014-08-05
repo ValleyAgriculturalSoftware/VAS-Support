@@ -9,17 +9,17 @@ If you would like to create a pen that is very similar to an existing pen, you d
 
 1.  Click on the **Pens** icon from the ribbon bar.
 
-    ![](/assets/images/image172.png)
+    ![]({{ site.baseurl }}/assets/images/image172.png)
 
 2.  From the pens list, click on the pen that you would like to copy.
 
 3.  Click on the **Copy** icon from the Pens toolbar.
 
-    ![](/assets/images/image196.png)
+    ![]({{ site.baseurl }}/assets/images/image196.png)
 
     The new pen will be created and added to the list of pens.
 
-    ![](/assets/images/image197.png)
+    ![]({{ site.baseurl }}/assets/images/image197.png)
 
 4.  From the pen list, click on the "new" pen that was just created.
 

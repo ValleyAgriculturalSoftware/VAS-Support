@@ -7,17 +7,17 @@ categories: guides recipes
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![](/assets/images/image129.png)
+	![]({{ site.baseurl }}/assets/images/image129.png)
 
 2.	From the recipe list, click on the recipe that you would like to modify.
 3.	Navigate to the **Instructions** panel.  
 4.	Click on the **New** icon from the Instructions toolbar.
 
-	![](/assets/images/image133.png)
+	![]({{ site.baseurl }}/assets/images/image133.png)
 
 	A blank row will appear.
 
-	![](/assets/images/image144.jpg)
+	![]({{ site.baseurl }}/assets/images/image144.jpg)
 
 	Enter the necessary information for the ingredient desired to add to the recipe.
 
@@ -33,21 +33,21 @@ categories: guides recipes
 
 5.	From the **Inventory Item Location** pull-down, pick the desired ingredient to add to the recipe.
 
-	![](/assets/images/image145.jpg)
+	![]({{ site.baseurl }}/assets/images/image145.jpg)
 
 6.	Enter a quantity amount (either AF or DM).
 
 7.	Modify the other fields if desired (optional).
 
-	![](/assets/images/image146.jpg)
+	![]({{ site.baseurl }}/assets/images/image146.jpg)
 
 8.	Click **Save**.
 
 
 For your information, another method can be used to add an ingredient to a recipe.  You can drag and drop an ingredient to the instructions panel (see below).
 
-![](/assets/images/image147.jpg)
+![]({{ site.baseurl }}/assets/images/image147.jpg)
 
 The ingredient is then added to the recipe.
 
-![](/assets/images/image148.jpg)
+![]({{ site.baseurl }}/assets/images/image148.jpg)

@@ -7,11 +7,11 @@ categories: guides ingredients
 
 1.  Click on the **Ingredients** icon from the ribbon bar.
 
-    ![]( /assets/images/image103.png)
+    ![]( {{ site.baseurl }}/assets/images/image103.png)
 
 2.  Click on the **New** icon from the Ingredient toolbar.
 
-    ![]( /assets/images/image104.png)
+    ![]( {{ site.baseurl }}/assets/images/image104.png)
 
 3.  Navigate to the **Ingredient** panel. Enter the necessary information.
 
@@ -30,13 +30,13 @@ categories: guides ingredients
 
     *Items noted in pink are required.
 
-    ![](/assets/images/image105.jpg)
+    ![]({{ site.baseurl }}/assets/images/image105.jpg)
 
 4.  Navigate to the **Locations** panel.
 
 5.  Click on the **New** icon from the Locations toolbar.
 
-    ![]( /assets/images/image106.png)
+    ![]( {{ site.baseurl }}/assets/images/image106.png)
 
 6.  Enter the necessary information in the Locations panel.
 
@@ -53,7 +53,7 @@ categories: guides ingredients
 
     *Items noted in pink are required.
 
-    ![](/assets/images/image107.jpg)
+    ![]({{ site.baseurl }}/assets/images/image107.jpg)
 
 
     {% infoblock warning DM % and Inventory DM % are NOT the same. Use caution to ensure you are viewing and/or modifying the correct percentage when working with DM% of an ingredient. %}
@@ -67,6 +67,6 @@ categories: guides ingredients
 8.  Enter the custom chemistry values for the ingredient. Or if you entered a "Reference" option from the previous step you will notice values are entered under the Chemistries panel automatically.
 
     *Items noted in blue are optional.
-    ![]( /assets/images/image111.jpg)
+    ![]( {{ site.baseurl }}/assets/images/image111.jpg)
 
 9.  After all the ingredient information is entered, click **Save**.
