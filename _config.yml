@@ -1,4 +1,5 @@
 name: FeedWatch Support
+baseurl: /FeedWatch-Support-Site
 markdown: kramdown
 redcarpet:
   extensions: ["tables"]
