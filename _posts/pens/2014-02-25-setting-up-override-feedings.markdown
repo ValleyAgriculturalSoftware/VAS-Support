@@ -6,42 +6,42 @@ categories: guides pens
 ---
 
 {% infoblock note In FeedWatch Versions 7.5 and 7.6 "Override Feedings" were setup as "Max/Balance" feedings. %}
- 
 
-1. Click on the **Pens** icon from the ribbon bar.
 
-  ![](/assets/images/image172.png)
+1.  Click on the **Pens** icon from the ribbon bar.
 
-2. Click on the pen that you would like to modify. 
+    ![](/assets/images/image172.png)
 
-3. Navigate to the **Feedings** panel.
+2.  Click on the pen that you would like to modify.
 
-4. In the **Override AF Qty** column, type in the exact amount of feed you want to feed (for this feeding only).
+3.  Navigate to the **Feedings** panel.
 
-  ![](/assets/images/image191.jpg)
+4.  In the **Override AF Qty** column, type in the exact amount of feed you want to feed (for this feeding only).
 
-5. Click **Save**.
+    ![](/assets/images/image191.jpg)
 
-  A second feeding in this period will automatically be created.  This is a "balance" feeding.  The balance feeding will consume ALL the remaining targeted feed for this period.
+5.  Click **Save**.
 
-  ![](/assets/images/image192.png)
+    A second feeding in this period will automatically be created. This is a "balance" feeding. The balance feeding will consume ALL the remaining targeted feed for this period.
 
-  ![](/assets/images/image193.png)
+    ![](/assets/images/image192.png)
 
-  *In this example:*
+    ![](/assets/images/image193.png)
 
-  **Override/Max feeding**
+    *In this example:*
 
-  * 21.76 lbs. DM/HD will be fed
+    **Override/Max feeding**
 
-  * 5,000 lbs. AF feed will be fed
+    * 21.76 lbs. DM/HD will be fed
 
-  * This feeding amount will not change day to day (assuming the pen is targeted at least 21.76 lbs DM in this period)
+    * 5,000 lbs. AF feed will be fed
 
-  **Balance feeding**
+    * This feeding amount will not change day to day (assuming the pen is targeted at least 21.76 lbs DM in this period)
 
-  * 8.24 lbs. DM/HD will be fed
+    **Balance feeding**
 
-  * 1,892 lbs. AF feed will be fed
+    * 8.24 lbs. DM/HD will be fed
 
-  * This feeding amount may change day to day (depending on pen count, recipe makeup, ingredient DM %, etc.)
+    * 1,892 lbs. AF feed will be fed
+
+    * This feeding amount may change day to day (depending on pen count, recipe makeup, ingredient DM %, etc.)

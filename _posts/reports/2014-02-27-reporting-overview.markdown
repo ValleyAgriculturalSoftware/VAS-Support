@@ -7,13 +7,12 @@ categories: guides reports
 
 
 FeedWatch Version 8 offers many new reporting improvements and
-features.  Some of these enhancements include:
+features. Some of these enhancements include:
 
 * "Interactive" report creation
-* Multiple report "types" (i.e. *page* report and *grid* report options)
+* Multiple report "types" (i.e. *page* report and *grid* report options)
 * Conditional formatting
 * Custom calculations
 * More user friendly method to modify existing reports
 
- 
 {% infoblock tip Reports can be setup to be automatically emailed in FeedWatch. For more details on setting up report(s) to be automatically emailed, refer to the "Task Scheduler" section of this manual. %}

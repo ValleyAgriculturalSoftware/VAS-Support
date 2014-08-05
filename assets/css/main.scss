@@ -1,3 +1,6 @@
+---
+---
+
 // Globals
 $gold: #DC9100;
 $white: #fff;
@@ -8,7 +11,7 @@ $navbar-inverse-bg: $gold;
 $navbar-inverse-color: $gold;
 $navbar-inverse-link-color: $black;
 
-@import "bootstrap";
+@import 'bootstrap';
 
 #home {
   background:url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/cream_dust.png') repeat;
@@ -19,7 +22,7 @@ $navbar-inverse-link-color: $black;
 }
 
 #main {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .jumbotron {
@@ -36,7 +39,7 @@ $navbar-inverse-link-color: $black;
 }
 
 .list-group {
-  margin-top:45px;
+  margin-top:50px;
 }
 
 // Video Button Overlays
@@ -66,7 +69,7 @@ $navbar-inverse-link-color: $black;
 // Affix Left Menu
 .affix-top {
   position: fixed;
-  top: 100px;
+  top: 50px;
 }
 
 // Overwrite some defaults

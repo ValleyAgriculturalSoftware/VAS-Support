@@ -7,20 +7,20 @@ categories: guides ingredients
 
 
 {% infoblock warning Prior to deleting an ingredient, make sure the ingredient isn’t used in any recipe or premix. %}
- 
 
-1. Click on the **Ingredients** icon from the ribbon bar.
 
-  ![]( /assets/images/image103.png)
+1.  Click on the **Ingredients** icon from the ribbon bar.
 
-2. Click on the ingredient you intend on deleting.
+    ![]( /assets/images/image103.png)
 
-  ![]( /assets/images/image118.png)
+2.  Click on the ingredient you intend on deleting.
 
-3. Click the **Delete** icon from the Ingredients toolbar.
+    ![]( /assets/images/image118.png)
 
-  ![]( /assets/images/image119.png)
+3.  Click the **Delete** icon from the Ingredients toolbar.
 
-  A delete confirmation box will appear.  If you would like to delete the ingredient, pick "Yes."
+    ![]( /assets/images/image119.png)
 
-  ![]( /assets/images/image120.png)
+    A delete confirmation box will appear. If you would like to delete the ingredient, pick "Yes."
+
+    ![]( /assets/images/image120.png)
