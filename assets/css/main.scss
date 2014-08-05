@@ -45,7 +45,7 @@ $navbar-inverse-link-color: $black;
 // Video Button Overlays
 .overlay {
   &:after{
-    background:rgba(0,0,0,0.5) url("/assets/playicon.png") center center no-repeat;
+    background:rgba(0,0,0,0.5) url("http://valleyagriculturalsoftware.github.io/FeedWatch-Support-Site/assets/playicon.png") center center no-repeat;
     background-size:75px 75px;
     content:"";
     display:block;
