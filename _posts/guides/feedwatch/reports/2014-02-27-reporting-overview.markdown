@@ -2,7 +2,7 @@
 layout: post
 title:  "Reporting Overview"
 mod_date: 2014-03-08 12:00:00
-categories: guides reports
+categories: reports
 ---
 
 

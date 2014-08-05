@@ -2,7 +2,7 @@
 layout: post
 title:  "Removing An Ingredient From A Recipe"
 mod_date: 2014-03-08 12:00:00
-categories: guides recipes
+categories: recipes
 ---
 
 1.	Click on the **Recipes** icon from the ribbon bar.

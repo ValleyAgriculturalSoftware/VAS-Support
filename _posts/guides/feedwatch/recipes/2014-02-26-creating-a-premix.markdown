@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating A Premix"
 mod_date: 2014-03-08 12:00:00
-categories: guides recipes
+categories: recipes
 ---
 
 ### From Ingredient Tab

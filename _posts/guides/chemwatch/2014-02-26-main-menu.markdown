@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Main Menu"
+mod_date: 2014-08-05 12:00:00
+categories: chemwatch
+---
+
+### Main Menu
+
+The Main Menu Screen offers options for the Unit. To reach the Main Menu, either press ChemWatch Dry Matter unit power button or by pressing ![](image) button if the unit is in another option screen. Once on the Main Menu Screen, use ![]() and ![]() arrow buttons to highlight desired task and then press ![](image)
+
+### Measure Dry Matter Option
+
+{% infoblock note Measurements should not be taken when the power cord is attached to the unit. You must unplug the unit to take measurements. All other functions can be performed while charging. %}
+
+1.  Highlight Measure Dry Matter category using ![](image) and ![](image) buttons and press ![](image)
+
+    ![](image)
+
+2.  Select and highlight from Feed Group using ![](image) and ![](image) buttons and press ![](image)
+
+    ![](image)
+
+
+    {% infoblock warning NEVER take scans directly from the face of a bunker or pile that exceeds 7-8 feet in height! Danger of feed collapse is always a threat and must be avoided. Always practice safe sampling techniques and take measurements from a pile that is moved away from the face. %}
+
+3.  Select from Inventory List with ![](image) and ![](image) buttons and press ![](image)
+
+    ![](image)
+
+4.  Current ingredient, number of trigger pulls are displayed on screen until a final trigger pull
+
+    ![](image)
+
+    {{ infoblock note Before each initial measurement begins, confirm that Probe Grate and NIR glass is free of all dirt and debris. }}
+
+5.  After final trigger pull, DM% and Previous Samples are listed for selected ingredient.
+
+    Press ![](image) to not save current sample and retest.
+
+    Press ![](image) to confirm saving sample test.
+
+#### Measurement Tips:
+
+*  Position the probe grate towards ingredient to be tested.
+*  Use mild to moderate pressure, keeping the unit firmly against ingredient while engaging trigger
+*  Repeat step randomly throughout ingredient testing area for the number of trigger pulls are dependent on the number set in setup screen, remebering to keep unit firmly against ingredient area.
+*  Hold the unit so that the probe is squarely in contact with the material being sampled, eliminating external light from interfering with the reading.
+*  Do not press the unit into the sample material beyond the point where external light is minimized. Material that pushes up through the screen will be too close to the sensor and will result in less accurate results. This extermely critical when testing finely ground materials. The weight of the unit resting on the sample material is generally enough.
+*  Do not lift or move the unit until you hear the audible beep confirming that the scan has completed. An inadvertent trigger pull or premature move that results in the unit beeping while in the air can be eliminated from the sample by pressing the back arrow button.
+*  When testing, it is always advised to remove the top, exposed layer of the material so as to get the material beneath the surface that has not already dried out. Variations in moisture can quickly change on surface material exposed tos unlight and air. Piles of material that get rained on should be mixed thoroughly if possible prior to sampling to get a more representative reading.

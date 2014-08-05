@@ -2,7 +2,7 @@
 layout: post
 title:  "Alternate Recipes"
 mod_date: 2014-03-08 12:00:00
-categories: guides recipes
+categories: recipes
 ---
 
 {% infoblock tip Prior to setting up an "alternate recipe" you will need to create a new recipe (Example: "primary" recipe has Whey and the "alternate" recipe does not have Whey). So the recipe without Whey would need to be created. Refer to Creating a Recipe and/or Copying a Recipe sections of this manual for more information on setting up a new recipe. %}

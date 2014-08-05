@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting Up Override Feedings"
 mod_date: 2014-03-08 12:00:00
-categories: guides pens
+categories: pens
 ---
 
 {% infoblock note In FeedWatch Versions 7.5 and 7.6 "Override Feedings" were setup as "Max/Balance" feedings. %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ceating An Ingredient"
 mod_date: 2014-03-08 12:00:00
-categories: guides ingredients
+categories: ingredients
 ---
 
 1.  Click on the **Ingredients** icon from the ribbon bar.

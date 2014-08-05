@@ -9,16 +9,31 @@
       <div class="row">
         <div class="col-sm-3 pull-left">
           <div data-spy="affix" data-offset-top="50" data-offset-bottom="200" class="list-group affix-top">
-            {% for category_name in page.categories[2] %}
-              {% for post in site.categories[category_name] %}
-                <a href="{{ site.baseurl }}{{ post.url }}"
-                {% if page.url == post.url %}
-                class="list-group-item active"
-                {% else %}
-                class="list-group-item"
-                {% endif %}>{{ post.title }}</a>
+            
+            {% if page.categories[2] == null %}
+              {% for category_name in page.categories[1] %}
+                {% for post in site.categories[category_name] %}
+                  <a href="{{ site.baseurl }}{{ post.url }}"
+                  {% if page.url == post.url %}
+                  class="list-group-item active"
+                  {% else %}
+                  class="list-group-item"
+                  {% endif %}>{{ post.title }}</a>
+                {% endfor %}
               {% endfor %}
-            {% endfor %}
+            {% else %}
+              {% for category_name in page.categories[2] %}
+                {% for post in site.categories[category_name] %}
+                  <a href="{{ site.baseurl }}{{ post.url }}"
+                  {% if page.url == post.url %}
+                  class="list-group-item active"
+                  {% else %}
+                  class="list-group-item"
+                  {% endif %}>{{ post.title }}</a>
+                {% endfor %}
+              {% endfor %}
+            {% endif %}
+
           </div>
 
         </div>

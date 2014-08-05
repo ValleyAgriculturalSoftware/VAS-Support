@@ -2,7 +2,7 @@
 layout: post
 title:  "Removing A Feeding From A Pen"
 mod_date: 2014-03-08 12:00:00
-categories: guides pens
+categories: pens
 ---
 
 1.  Click on the **Pens** icon from the ribbon bar.

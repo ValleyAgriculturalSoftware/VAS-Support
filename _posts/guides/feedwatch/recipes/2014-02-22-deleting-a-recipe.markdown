@@ -2,7 +2,7 @@
 layout: post
 title:  "Deleting A Recipe"
 mod_date: 2014-03-08 12:00:00
-categories: guides recipes
+categories: recipes
 ---
 
 {% infoblock warning Prior to deleting a recipe, make sure the recipe isn’t assigned to any pens. %}

@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Settings"
+mod_date: 2014-08-05 12:00:00
+categories: chemwatch
+---
+
+### Calibrate Sensor
+
+For consistent and accurate measurements, the ChemWatch Unit must be calibrated using the calibration disk supplied with the unit. Each calibration pea dish has a 6 digit calibration code. Always use and confirm that the 6 digit calibration code is entered correctly during the calibration sequence shown below.
+
+![](image)
+
+![](image)
+
+{% infoblock note Keep Calibration disk clean and out of direct contact wiht the sun. %}
+
+1.  Highlight Settings from Main Menu with ![](image) and ![](image) 
+
+2.  Enter/Confirm that Calibration Code matches the code located on the calibration disk
+
+    ![](image)
+
+3.  Place disk directly in front of probe head. Hold disk steady and press trigger to start calibration.
+
+    ![](image)
+
+    {{ infoblock note To insure consistent accuracy check calibration once a day or if air temperature changes +/- 10 degrees F from previous calibration }}
+
+4.  Once calibration is complete then press trigger or enter to exit back to Main Screen.
+
+{% infoblock note For best results, place the unit outside for 30 minutes with power on so unit can acclimate. %}
+
+### Device Information
+
+1.  Highlight Device Information from Main Menu and then press the enter button.
+
+    ![](image)
+
+2.  Device Information option allows you to access the Device ID, LIcense, License Expiration, Device's latest license verion, Last CE Build and Available Memory.
+
+    ![](image)
+
+### Set Date and Time
+
+1.  High Set Date and Time, press ![](image)
+
+    ![](image)
+
+2.  Use the ![](image) and ![](image) to select, ![](image) and ![](image) arrows to change time, month, day and year, and then press ![](image)
+
+    ![](image)
+
+### Measurement Count
+
+1.  Number of Measurements are number of times trigger is depressed when taking a dry matter reading.
+
+    ![](image)
+
+2.  Highlight Set Measurement Count then press ![](image)
+    
+    Press ![](image) and ![](image) arrows to set number of readings to 20 then press ![](image)
+
+    ![](image)
+
+### Set Power Down
+
+1.  Power Down Time is time device takes to power down after no user input.
+
+    ![](image)
+
+2.  Highlight Set Power Down Time from Settings menu and press ![](image)
+
+3.  Use ![](image) or ![](image) arrows to change time, press ![](image)
+
+    ![](image)
+
+### Set Screen Dim Time
+
+1.  Set Screen Dim Time is time device takes to dim screen after no user input.
+
+    ![](image)
+
+2.  Highlight Set SCreen Dim Time from settings menu and press ![](image)
+
+3.  Use ![](image) or ![](image) arrows to set time, press ![](image)
+
+    ![](image)
+
+### Set Archive Retention
+
+1.  Set Archive Retention Days allows you to track moisture samples up to 30 days
+
+    ![](image)
+
+2.  Highlight Set Archive Retention from settings menu and press ![](image)
+
+3.  Use ![](image) or ![](image) arrow keys to set retention days
+
+    ![](image)
+
+### Set Heater Temperature
+
+1.  Set Heater Temperature to prevent moisture from condensing on NIR glass. Periodically check the glass for condesnation, especially in cold temperatures.
+
+    If Condensation is found on the glass, increase the Heater Temperature level.
+
+    ![](image)
+
+2.  Highlight Set Heater Temperature from settings menu and press ![](image)
+
+3.  Use ![](image) or ![](image) arrows to change the temperature level, press ![](image)
+
+    ![](image)
+
+{% infoblock note It is recommended to use the Medium Temperature setting year round. %}
+
+{% infoblock tip <ul><li>Off Mode: Extended battery life and for dry hay, etc</li><li>Low Mode: Low temperature forage in dry environments</li><li>Medium Mode: Normal forage</li><li>High Mode: Moist hot forage</li></ul>%}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Copying A Recipe"
 mod_date: 2014-03-08 12:00:00
-categories: guides recipes
+categories: recipes
 ---
 
 If you would like to create a recipe that is very similar to an existing recipe, you do not need to create the new recipe. Rather, you could simply copy an existing recipe and then change the new recipe accordingly.

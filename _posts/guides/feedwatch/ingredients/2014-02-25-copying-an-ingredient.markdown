@@ -2,7 +2,7 @@
 layout: post
 title:  "Copying An Ingredient"
 mod_date: 2014-03-08 12:00:00
-categories: guides ingredients
+categories: ingredients
 ---
 
 If you would like to create an ingredient that is very similar to an existing ingredient, you do not need to create the new ingredient. Rather, you could simply copy an existing ingredient and then change the new ingredient accordingly.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding Feedings To An Existing Pen"
 mod_date: 2014-03-08 12:00:00
-categories: guides pens
+categories: pens
 ---
 
 1.  For your reference, go to the recipe that you would like to assign to a pen. Check to see of it is currently "active."
