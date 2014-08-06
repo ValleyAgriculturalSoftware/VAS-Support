@@ -30,7 +30,7 @@ categories: ingredients
 
     *Items noted in pink are required.
 
-    ![]({{ site.baseurl }}/assets/images/image105.jpg)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image105.jpg)
 
 4.  Navigate to the **Locations** panel.
 
@@ -53,7 +53,7 @@ categories: ingredients
 
     *Items noted in pink are required.
 
-    ![]({{ site.baseurl }}/assets/images/image107.jpg)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image107.jpg)
 
 
     {% infoblock warning DM % and Inventory DM % are NOT the same. Use caution to ensure you are viewing and/or modifying the correct percentage when working with DM% of an ingredient. %}

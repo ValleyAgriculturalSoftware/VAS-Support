@@ -7,7 +7,7 @@ categories: pens
 
 1.  Click on the **Pens** icon from the ribbon bar.
 
-    ![]({{ site.baseurl }}/assets/images/image172.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image172.png)
 
 2.  Click on the pen that you would like to remove the feeding from.
 
@@ -17,8 +17,8 @@ categories: pens
 
 5.  Click the **Delete** icon from the Feedings toolbar.
 
-    ![]({{ site.baseurl }}/assets/images/image189.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image189.png)
 
 6.  A delete confirmation box will appear. If you would like to delete the feeding, pick "Yes."
 
-    ![]({{ site.baseurl }}/assets/images/image190.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image190.png)

@@ -9,13 +9,13 @@ categories: recipes
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![]({{ site.baseurl }}/assets/images/image129.png)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image129.png)
 
 2.	From the recipe list, RIGHT-click on the recipe that you would like to delete from FeedWatch.  A fly-out menu will appear.
 3.	Pick **Delete**.
 
-	![]({{ site.baseurl }}/assets/images/image158.png)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image158.png)
 
 4.	A delete confirmation box will appear.  If you would like to delete the recipe, pick "Yes".
 
-	![]({{ site.baseurl }}/assets/images/image120.png)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image120.png)

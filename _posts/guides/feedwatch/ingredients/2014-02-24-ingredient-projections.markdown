@@ -24,7 +24,7 @@ Follow the steps below to view ingredient usage projections (via the Ingredient 
 
 1.  Click on the **Ingredients** icon from the ribbon bar.
 
-    ![]({{ site.baseurl }}/assets/images/image123.jpg)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image123.jpg)
 
 2.  Load in the desired projection columns into the ingredient grid.
 
@@ -32,7 +32,7 @@ Follow the steps below to view ingredient usage projections (via the Ingredient 
 
     *Available "projection" grid columns options include:*
 
-    ![]({{ site.baseurl }}/assets/images/image124.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image124.png)
 
 3.  Click on the ingredient that you would like to view the projections for.
 
@@ -40,7 +40,7 @@ Follow the steps below to view ingredient usage projections (via the Ingredient 
 
     Notice the projected usage rates for this specific ingredient.
 
-    ![]({{ site.baseurl }}/assets/images/image125.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image125.png)
 
 
 ### Viewing Projections from the Projections Tab
@@ -50,7 +50,7 @@ Projections tab).
 
 1.  Click on the **Projections** icon from the ribbon bar.
 
-    ![]({{ site.baseurl }}/assets/images/image126.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image126.png)
 
 2.  Load in the desired columns into the projections grid.
 
@@ -66,4 +66,4 @@ Projections tab).
   | **Expand Premixes (UNCHECKED)** | Will include projected usage for any premix "ingredient". Wil **NOT** show the projected usage for ingredients that make up any premix "recipe" (i.e. ingredients in a premix). |
 
 
-  ![]({{ site.baseurl }}/assets/images/image127.png)
+  ![]({{ site.baseurl }}/assets/images/feedwatch/image127.png)

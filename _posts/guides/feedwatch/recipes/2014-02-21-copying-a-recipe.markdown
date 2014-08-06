@@ -9,16 +9,16 @@ If you would like to create a recipe that is very similar to an existing recipe,
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![]({{ site.baseurl }}/assets/images/image129.png)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image129.png)
 
 2.	From the recipe list, click on the recipe that you would like to copy.
 3.	Click on the **Copy** icon from the Recipes toolbar.
 
-	![]({{ site.baseurl }}/assets/images/image159.png)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image159.png)
 
 	The new recipe will be created and added to the list of recipes.
 
-	![]({{ site.baseurl }}/assets/images/image160.jpg)
+	![]({{ site.baseurl }}/assets/images/feedwatch/image160.jpg)
 
 4.	From the recipe list, click on the "new" recipe that was just created.
 5.	Then, modify the new recipe as desired (i.e. new name, different ingredients, different density factor, etc.).

@@ -9,17 +9,17 @@ If you would like to create an ingredient that is very similar to an existing in
 
 1.  Click on the **Ingredients** icon from the ribbon bar.
 
-    ![]({{ site.baseurl }}/assets/images/image103.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image103.png)
 
 2.  From the ingredient list, click on the ingredient that you would like to copy.
 
 3.  Click on the **Copy** icon from the Ingredients toolbar.
 
-    ![]({{ site.baseurl }}/assets/images/image121.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image121.png)
 
     The new ingredient will be created and added to the list of ingredients.
 
-    ![]({{ site.baseurl }}/assets/images/image122.png)
+    ![]({{ site.baseurl }}/assets/images/feedwatch/image122.png)
 
 4.  From the ingredient list, click on the "new" ingredient that was just created.
 
