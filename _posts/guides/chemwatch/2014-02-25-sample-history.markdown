@@ -7,12 +7,12 @@ categories: chemwatch
 
 ### Sample History
 
-1.  Highlight Sample History option using ![](image) and ![](image) buttons and press ![](image)
+1.  Highlight Sample History option using ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image032.png)
 
 2.  Scroll through Spreadsheet screen to view previous sample results using the arrow keys to review data columns. 
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image033.png)
 
 {% infoblock note Delete sample history by pressing 4. Confirm deletion using arrow buttons, press enter. %}

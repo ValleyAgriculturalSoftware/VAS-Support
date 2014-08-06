@@ -7,8 +7,8 @@ categories: chemwatch
 
 ### About
 
-1.  Highlight About from Main Menu, press ![](image)
+1.  Highlight About from Main Menu, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image057.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image058.png)

@@ -8,7 +8,7 @@ categories: chemwatch
 ### Device Equipment
  *Items below are included with the ChemWatch Dry Matter Unit, please contact VAS technical support if any items below are missing or broken*
 
- ![](image)
+ ![]({{ site.baseurl }}/assets/images/chemwatch/image009.jpg)
 
  *  Case
  *  ChemWatch Unit
@@ -19,11 +19,11 @@ categories: chemwatch
 
 ### Power & Data Location
 
-![](image)
+![]({{ site.baseurl }}/assets/images/chemwatch/image0)
 
 ### Equipment Features
 
-![](image)
+![]({{ site.baseurl }}/assets/images/chemwatch/image0)
 
 | Item # | Term/Abbreviation | Description |
 |---|---|

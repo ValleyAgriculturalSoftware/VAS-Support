@@ -35,4 +35,4 @@ The USB Drive is required:
 
 To turn on ChemWatch Dry Matter unit, confirm USB drive is installed, NIR glass window is clean and guard is free of debris. Push and hold Power Button for approximately 2 seconds until you can see display screen powering up Main Menu.
 
-![](image)
+![]({{ site.baseurl }}/assets/images/chemwatch/image0)

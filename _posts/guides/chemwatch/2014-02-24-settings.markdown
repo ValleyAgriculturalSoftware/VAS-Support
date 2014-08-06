@@ -2,32 +2,36 @@
 layout: post
 title:  "Settings"
 mod_date: 2014-08-05 12:00:00
-categories: chemwatch
+categories: chemwatch guides
 ---
 
 ### Calibrate Sensor
 
 For consistent and accurate measurements, the ChemWatch Unit must be calibrated using the calibration disk supplied with the unit. Each calibration pea dish has a 6 digit calibration code. Always use and confirm that the 6 digit calibration code is entered correctly during the calibration sequence shown below.
 
-![](image)
+![]({{ site.baseurl }}/assets/images/chemwatch/image036.png)
 
-![](image)
+![]({{ site.baseurl }}/assets/images/chemwatch/image035.png)
 
 {% infoblock note Keep Calibration disk clean and out of direct contact wiht the sun. %}
 
-1.  Highlight Settings from Main Menu with ![](image) and ![](image) 
+1.  Highlight Settings from Main Menu with ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) 
+
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image038.png)
 
 2.  Enter/Confirm that Calibration Code matches the code located on the calibration disk
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image039.png)
 
 3.  Place disk directly in front of probe head. Hold disk steady and press trigger to start calibration.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image040.png)
 
     {{ infoblock note To insure consistent accuracy check calibration once a day or if air temperature changes +/- 10 degrees F from previous calibration }}
 
 4.  Once calibration is complete then press trigger or enter to exit back to Main Screen.
+
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image041.png)
 
 {% infoblock note For best results, place the unit outside for 30 minutes with power on so unit can acclimate. %}
 
@@ -35,69 +39,69 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 1.  Highlight Device Information from Main Menu and then press the enter button.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image042.png)
 
 2.  Device Information option allows you to access the Device ID, LIcense, License Expiration, Device's latest license verion, Last CE Build and Available Memory.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image043.png)
 
 ### Set Date and Time
 
-1.  High Set Date and Time, press ![](image)
+1.  Highlight Set Date and Time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image044.png)
 
-2.  Use the ![](image) and ![](image) to select, ![](image) and ![](image) arrows to change time, month, day and year, and then press ![](image)
+2.  Use the ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) to select, ![]({{ site.baseurl }}/assets/images/chemwatch/image030.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image031.png) arrows to change time, month, day and year, and then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image045.png)
 
 ### Measurement Count
 
 1.  Number of Measurements are number of times trigger is depressed when taking a dry matter reading.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image046.png)
 
-2.  Highlight Set Measurement Count then press ![](image)
+2.  Highlight Set Measurement Count then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
     
-    Press ![](image) and ![](image) arrows to set number of readings to 20 then press ![](image)
+    Press ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrows to set number of readings to 20 then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image047.png)
 
 ### Set Power Down
 
 1.  Power Down Time is time device takes to power down after no user input.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image048.png)
 
-2.  Highlight Set Power Down Time from Settings menu and press ![](image)
+2.  Highlight Set Power Down Time from Settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![](image) or ![](image) arrows to change time, press ![](image)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image0) or ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrows to change time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image049.png)
 
 ### Set Screen Dim Time
 
 1.  Set Screen Dim Time is time device takes to dim screen after no user input.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image050.png)
 
-2.  Highlight Set SCreen Dim Time from settings menu and press ![](image)
+2.  Highlight Set SCreen Dim Time from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image0)
 
-3.  Use ![](image) or ![](image) arrows to set time, press ![](image)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image0) or ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrows to set time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image051.png)
 
 ### Set Archive Retention
 
 1.  Set Archive Retention Days allows you to track moisture samples up to 30 days
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image052.png)
 
-2.  Highlight Set Archive Retention from settings menu and press ![](image)
+2.  Highlight Set Archive Retention from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![](image) or ![](image) arrow keys to set retention days
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image0) or ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrow keys to set retention days
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image053.png)
 
 ### Set Heater Temperature
 
@@ -105,13 +109,13 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
     If Condensation is found on the glass, increase the Heater Temperature level.
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image054.png)
 
-2.  Highlight Set Heater Temperature from settings menu and press ![](image)
+2.  Highlight Set Heater Temperature from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![](image) or ![](image) arrows to change the temperature level, press ![](image)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image0) or ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrows to change the temperature level, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-    ![](image)
+    ![]({{ site.baseurl }}/assets/images/chemwatch/image055.png)
 
 {% infoblock note It is recommended to use the Medium Temperature setting year round. %}
 
