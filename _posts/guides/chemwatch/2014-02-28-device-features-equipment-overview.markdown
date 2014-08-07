@@ -19,11 +19,11 @@ categories: chemwatch
 
 ### Power & Data Location
 
-![]({{ site.baseurl }}/assets/images/chemwatch/image0)
+![]({{ site.baseurl }}/assets/images/chemwatch/image000.jpg)
 
 ### Equipment Features
 
-![]({{ site.baseurl }}/assets/images/chemwatch/image0)
+![]({{ site.baseurl }}/assets/images/chemwatch/image001.jpg)
 
 | Item # | Term/Abbreviation | Description |
 |---|---|

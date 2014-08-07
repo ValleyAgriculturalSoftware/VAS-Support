@@ -7,24 +7,24 @@ categories: chemwatch
 
 ### Main Menu
 
-The Main Menu Screen offers options for the Unit. To reach the Main Menu, either press ChemWatch Dry Matter unit power button or by pressing ![]({{ site.baseurl }}/assets/images/chemwatch/image018.png) button if the unit is in another option screen. Once on the Main Menu Screen, use ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) arrow buttons to highlight desired task and then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+The Main Menu Screen offers options for the Unit. To reach the Main Menu, either press ChemWatch Dry Matter unit power button or by pressing ![]({{ site.baseurl }}/assets/images/chemwatch/image018.png) button if the unit is in another option screen. Once on the Main Menu Screen, use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrow buttons to highlight desired task and then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
 ### Measure Dry Matter Option
 
 {% infoblock note Measurements should not be taken when the power cord is attached to the unit. You must unplug the unit to take measurements. All other functions can be performed while charging. %}
 
-1.  Highlight Measure Dry Matter category using ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+1.  Highlight Measure Dry Matter category using ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image021.png)
 
-2.  Select and highlight from Feed Group using ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0.png) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+2.  Select and highlight from Feed Group using ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image022.png)
 
 
     {% infoblock warning NEVER take scans directly from the face of a bunker or pile that exceeds 7-8 feet in height! Danger of feed collapse is always a threat and must be avoided. Always practice safe sampling techniques and take measurements from a pile that is moved away from the face. %}
 
-3.  Select from Inventory List with ![]({{ site.baseurl }}/assets/images/chemwatch/image0) and ![]({{ site.baseurl }}/assets/images/chemwatch/image0) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+3.  Select from Inventory List with ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image025.png)
 
