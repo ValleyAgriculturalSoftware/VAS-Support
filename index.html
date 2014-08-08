@@ -7,8 +7,6 @@ title: VAS Support
   <h2>Help Guides</h2>
 </div>
 
-<!-- {% include feedwatch_guides.html%} -->
-
 <div class="row help-tile-row">
   <div class="col-sm-4 help-tile">
     {% for post in site.categories.chemwatch | limit:1 %}
@@ -19,10 +17,9 @@ title: VAS Support
   </div>
   <div class="col-sm-4 help-tile">
     {% for post in site.categories.feedwatch | limit:1 %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}/guides/feedwatch/">
         <img src="http://placehold.it/350x250&text=FeedWatch" class="img-rounded" />
       </a>
-      <p class="text-left">FeedWatch</p>
     {% endfor %}
   </div>
 </div>
