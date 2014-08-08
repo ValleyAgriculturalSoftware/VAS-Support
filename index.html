@@ -1,13 +1,31 @@
 ---
 layout: home
-title: FeedWatch Help
+title: VAS Support
 ---
 
 <div class="page-header">
-  <h2>Help Guides <small>Learn about FeedWatch</small></h2>
+  <h2>Help Guides</h2>
 </div>
 
-{% include feedwatch_guides.html%}
+<!-- {% include feedwatch_guides.html%} -->
+
+<div class="row help-tile-row">
+  <div class="col-sm-4 help-tile">
+    {% for post in site.categories.chemwatch | limit:1 %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{{ site.baseurl }}/assets/chemwatch-logo.png" class="img-responsive img-rounded" />
+      </a>
+    {% endfor %}
+  </div>
+  <div class="col-sm-4 help-tile">
+    {% for post in site.categories.feedwatch | limit:1 %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="http://placehold.it/350x250&text=FeedWatch" class="img-rounded" />
+      </a>
+      <p class="text-left">FeedWatch</p>
+    {% endfor %}
+  </div>
+</div>
 
 <div class="page-header">
   <h2>Video Guides</h2>

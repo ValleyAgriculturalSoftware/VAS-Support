@@ -1,4 +1,4 @@
-name: FeedWatch Support
+name: VAS Support
 baseurl: /FeedWatch-Support-Site
 markdown: kramdown
 highlighter: pygments

@@ -11,16 +11,16 @@ categories: ingredients
 
 1.  Click on the **Ingredients** icon from the ribbon bar.
 
-    ![]( {{ site.baseurl }}/assets/images/image103.png)
+    ![]( {{ site.baseurl }}/assets/images/feedwatch/image103.png)
 
 2.  Click on the ingredient you intend on deleting.
 
-    ![]( {{ site.baseurl }}/assets/images/image118.png)
+    ![]( {{ site.baseurl }}/assets/images/feedwatch/image118.png)
 
 3.  Click the **Delete** icon from the Ingredients toolbar.
 
-    ![]( {{ site.baseurl }}/assets/images/image119.png)
+    ![]( {{ site.baseurl }}/assets/images/feedwatch/image119.png)
 
     A delete confirmation box will appear. If you would like to delete the ingredient, pick "Yes."
 
-    ![]( {{ site.baseurl }}/assets/images/image120.png)
+    ![]( {{ site.baseurl }}/assets/images/feedwatch/image120.png)

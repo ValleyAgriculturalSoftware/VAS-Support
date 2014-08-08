@@ -8,11 +8,11 @@ categories: recipes
 
 1.	Click on the **Recipes** icon from the ribbon bar.
 
-	![Recipe Icon]({{ site.baseurl }}/assets/images/image129.png)
+	![Recipe Icon]({{ site.baseurl }}/assets/images/feedwatch/image129.png)
 
 2.	Click on the **New** icon from the Recipes toolbar.
 
-	![New]({{ site.baseurl }}/assets/images/image130.png)
+	![New]({{ site.baseurl }}/assets/images/feedwatch/image130.png)
 
 3.	Navigate to the Recipe panel.  Enter the necessary information
 
@@ -27,7 +27,7 @@ categories: recipes
 
 	**Items noted in pink are required.*
 
-	![Recipe Form]({{ site.baseurl }}/assets/images/image132.jpg)
+	![Recipe Form]({{ site.baseurl }}/assets/images/feedwatch/image132.jpg)
 
 	You will not be able to "save" the new recipe until ingredient(s) are added to the recipe.
 
@@ -35,11 +35,11 @@ categories: recipes
 
 5.	Click on the **New** icon from the Instructions toolbar.
 
-	![New Instructions]({{ site.baseurl }}/assets/images/image133.png)
+	![New Instructions]({{ site.baseurl }}/assets/images/feedwatch/image133.png)
 
 	A blank row will appear.
 
-	![New Instruction Row]({{ site.baseurl }}/assets/images/image134.png)
+	![New Instruction Row]({{ site.baseurl }}/assets/images/feedwatch/image134.png)
 
 	Enter the necessary information for each ingredient desired to add to the recipe.
 
@@ -55,7 +55,7 @@ categories: recipes
 
 6.	From the **Inventory Item Location** pull-down, pick the desired ingredient to add to the recipe.
 
-	![Ingredient Dropdown]({{ site.baseurl }}/assets/images/image135.jpg)
+	![Ingredient Dropdown]({{ site.baseurl }}/assets/images/feedwatch/image135.jpg)
 
 7.	Enter a quantity amount (either AF or DM).
 
@@ -63,7 +63,7 @@ categories: recipes
 
 8.	Modify the other fields if desired (optional).
 
-	![Instruction Fields]({{ site.baseurl }}/assets/images/image137.jpg)
+	![Instruction Fields]({{ site.baseurl }}/assets/images/feedwatch/image137.jpg)
 
 9.	Repeat the steps noted above to add as many ingredients as desired to the recipe.
 
