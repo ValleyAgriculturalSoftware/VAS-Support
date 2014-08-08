@@ -83,3 +83,7 @@ table {
   @extend .table-striped;
   @extend .table-hover;
 }
+
+img {
+  @extend .img-responsive;
+}
