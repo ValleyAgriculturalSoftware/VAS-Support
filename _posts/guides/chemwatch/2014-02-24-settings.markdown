@@ -15,7 +15,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 {% infoblock note Keep Calibration disk clean and out of direct contact wiht the sun. %}
 
-1.  Highlight Settings from Main Menu with ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) 
+1.  Highlight Settings from Main Menu with ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) 
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image038.png)
 
@@ -51,7 +51,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image044.png)
 
-2.  Use the ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) to select, ![]({{ site.baseurl }}/assets/images/chemwatch/image030.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image031.png) arrows to change time, month, day and year, and then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+2.  Use the ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) to select, ![]({{ site.baseurl }}/assets/images/chemwatch/image030.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image031.png) arrows to change time, month, day and year, and then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image045.png)
 
@@ -63,7 +63,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 2.  Highlight Set Measurement Count then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
     
-    Press ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrows to set number of readings to 20 then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+    Press ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) arrows to set number of readings to 20 then press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image047.png)
 
@@ -75,7 +75,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 2.  Highlight Set Power Down Time from Settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrows to change time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) arrows to change time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image049.png)
 
@@ -87,7 +87,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 2.  Highlight Set Screen Dim Time from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrows to set time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) arrows to set time, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image051.png)
 
@@ -99,7 +99,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 2.  Highlight Set Archive Retention from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrow keys to set retention days
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) arrow keys to set retention days
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image053.png)
 
@@ -113,7 +113,7 @@ For consistent and accurate measurements, the ChemWatch Unit must be calibrated 
 
 2.  Highlight Set Heater Temperature from settings menu and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
-3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) arrows to change the temperature level, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+3.  Use ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) or ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) arrows to change the temperature level, press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image055.png)
 

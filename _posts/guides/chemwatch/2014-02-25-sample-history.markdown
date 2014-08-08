@@ -7,7 +7,7 @@ categories: chemwatch
 
 ### Sample History
 
-1.  Highlight Sample History option using ![]({{ site.baseurl }}/assets/images/chemwatch/image003.jpg) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.jpg) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
+1.  Highlight Sample History option using ![]({{ site.baseurl }}/assets/images/chemwatch/image003.png) and ![]({{ site.baseurl }}/assets/images/chemwatch/image004.png) buttons and press ![]({{ site.baseurl }}/assets/images/chemwatch/image020.png)
 
     ![]({{ site.baseurl }}/assets/images/chemwatch/image032.png)
 
