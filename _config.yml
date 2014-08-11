@@ -1,5 +1,5 @@
 name: VAS Support
-baseurl: /FeedWatch-Support-Site
+baseurl: /VAS-Support
 markdown: kramdown
 highlighter: pygments
 permalink: /:categories/:title
